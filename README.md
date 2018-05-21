@@ -1,6 +1,6 @@
 # SplashLoaderNX
 
-A Tool for Managing, and Loading all of your Splash.bin files for your Auto-CFW Hekate Enabled Nintendo Switch 
+A Tool for Managing, all of your Splash.bin files for your Auto-CFW Hekate Enabled Nintendo Switch 
 
 
 
@@ -17,4 +17,4 @@ A Tool for Managing, and Loading all of your Splash.bin files for your Auto-CFW 
 
 # Download Lastest Release
 
-https://github.com/ProtoPropski/SplashLoaderNX/releases/tag/v1.0
+https://github.com/ProtoPropski/SplashLoaderNX/releases
