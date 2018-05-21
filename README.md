@@ -15,6 +15,6 @@ A Tool for Managing, and Loading all of your Splash.bin files for your Hekate/At
 3) Set-up is Complete, you can now Start the program, and follow the instructions if you want to Switch Between Splash Files "Easily".    
 
 
-# Download
+# Download Lastest Release
 
 https://github.com/ProtoPropski/SplashLoaderNX/releases/tag/v1.0
