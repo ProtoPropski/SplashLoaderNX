@@ -4,11 +4,11 @@ A Tool for Managing, and Loading all of your Splash.bin files for your Hekate/At
 
 
 
-# [Installation]
+# Installation
 
-1) Simply Place the "Splash" Folder with the ["Splash Loader.exe"] Inside it on the Root of your Hekate/Atmosphere SD Card.
+1) Simply Place the "Splash" Folder with the "Splash Loader.exe" Inside it on the Root of your Hekate/Atmosphere SD Card.
 
-2) Then Place a Splash.bin File, and Rename it [Splash#.bin], # = Number/Anything Without a Space.
+2) Then Place a Splash.bin File, and Rename it "Splash#.bin", # = Number/Anything Without a Space.
 
 (EX; Splash1.bin, Splash2.bin, or SplashCool, SplashLame, etc)
 
