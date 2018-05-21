@@ -15,6 +15,6 @@ A Tool for Managing, and Loading all of your Splash.bin files for your Hekate/At
 3) Set-up is Complete, you can now Start the program, and follow the instructions if you want to Switch Between Splash Files "Easily".    
 
 
-# Download Application Here
+# Download
 
 http://www.mediafire.com/file/bru6e06m39n4icu/Splash%20Loader.zip
