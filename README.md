@@ -1,6 +1,6 @@
 # SplashLoaderNX
 
-A Tool for Managing, and Loading all of your Splash.bin files for your Hekate/Atmosphere Enabled Nintendo Switch 
+A Tool for Managing, and Loading all of your Splash.bin files for your Auto-CFW Hekate Enabled Nintendo Switch 
 
 
 
