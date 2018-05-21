@@ -17,4 +17,4 @@ A Tool for Managing, and Loading all of your Splash.bin files for your Hekate/At
 
 # Download
 
-http://www.mediafire.com/file/bru6e06m39n4icu/Splash%20Loader.zip
+https://github.com/ProtoPropski/SplashLoaderNX/releases/tag/v1.0
